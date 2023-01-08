@@ -1,0 +1,8 @@
+* This is a Spring Boot application set up using Spring Initializer using Maven and Spring Web dependencies.
+* The application demonstrates how to build different APIs. The APIs allow the creation of an employee management sytem.
+* The APIs perform CRUD.
+
+User story
+
+As a user, I want to be able to Create, Read, Update and Delete a user from postman or any other API building platform.
+Then when I refresh the browser, the changes are reflected on the browser as well.
