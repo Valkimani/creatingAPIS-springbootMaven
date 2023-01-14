@@ -1,6 +1,6 @@
-* This is a Spring Boot application set up using Spring Initializer. Maven and Spring Web dependencies were used.
-* The application demonstrates how to build different APIs. The APIs allow the creation of an employee management sytem.
-* The APIs perform CRUD.
+This is a Spring Boot application set up using Spring Initializer. Maven and Spring Web dependencies were used.
+The application demonstrates how to build different APIs. The APIs allow the creation of an employee management sytem.
+The APIs perform CRUD.
 
 User story
 
